@@ -1,4 +1,4 @@
-// This is my first repository.
+// This is my first repository. Thank you,
 
 Feel free to give me your input. Progress is always growing from constructive criticism.
 
