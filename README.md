@@ -6,4 +6,4 @@ Initial README for my [https://github.com/JoseIvanHernandez] that links to my pu
 
 Who Am I,
 
-A proud father, friend, neighbor, partner. I am no stranger to adversity and the many challenges life brings. I know that my purpose is to be a contributor, innovator, and visionary. I am a strong beliver that the impossible is always possible and that the goal is not to live forever, but to create something that will.
+A proud father, friend, neighbor, partner. I am no stranger to adversity and the many challenges life brings. I know that my purpose is to be a contributor, innovator, and visionary. I am a strong beliver that the impossible is always possible and that the goal is not to live forever, but to create something that will. Two strong influential figures believed these to be true, Selena Quintanilla Perez and Walt Disney. 
