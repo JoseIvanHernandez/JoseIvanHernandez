@@ -33,3 +33,8 @@ Let’s build something that matters.
 ---
 
 🛠️ More coming soon. Stay tuned.
+
+![PowerShell](https://img.shields.io/badge/shell-PowerShell-blue.svg)
+![Status](https://img.shields.io/badge/status-alpha-lightgrey.svg)
+![License](https://img.shields.io/github/license/JoseIvanHernandez/thought-loop-orchestrator)
+
